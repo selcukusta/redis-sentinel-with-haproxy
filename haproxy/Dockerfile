@@ -1,4 +1,4 @@
-FROM haproxy:1.8.5-alpine
+FROM haproxy:1.9.4-alpine
 
 COPY haproxy.cfg .
 
